@@ -47,7 +47,7 @@ return {
     formatting = {
       timeout_ms = 20000,
       format_on_save = {
-        enabled = false, -- disable format on save
+        enabled = true, -- disable format on save
       },
     },
     config = {
